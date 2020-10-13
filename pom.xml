@@ -21,7 +21,7 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<!-- update junit version -->
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<!-- check the scope(instructor didn't change this) -->
 			<scope>test</scope>
 		</dependency>
